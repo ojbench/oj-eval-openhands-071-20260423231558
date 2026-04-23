@@ -1,0 +1,7 @@
+tmp/
+*.o
+*.out
+client
+server
+client_spj
+server_spj
